@@ -38,16 +38,17 @@ console.log(languages[index])
 
 // ---------------------4) What will this log?
 
-const weekendDays = ["saturday", "sunday"]
-console.log(weekendDays.toUpperCase())
+// const weekendDays = ["saturday", "sunday"]
+// console.log(weekendDays.toUpperCase())
 
 // a) Your answer:it will print "Saturday,Sunday "all uppercase.
-// b) Verify and explain: It didnt't log anything ,instead it displayed an error. I can't find the reason why it displayed an error.
+// b) Verify and explain: It didnt't log anything ,instead it displayed an error. It displayed an error because its a string and not an array.
 
 // --------------------5) What will this log?
 
 const dataTypes = ["number", "string", "Boolean", "undefined"]
 console.log(typeof dataTypes.length)
+console.log(dataTypes.length)
 
 // a) Your answer: It will log the length of all words together.
 // b) Verify and explain: It just logged "number". I don't understand why it logged "number"

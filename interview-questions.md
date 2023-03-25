@@ -46,12 +46,12 @@ Researched answer: "Pair programming is a software development technique in whic
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions:  Its a function that will accept  functions as parameters and/or returns a function.For example , it can take arrays.
 
-2. Jest:
+2. Jest:  Jest is a testing framework to test if your code works.
 
-3. Objects:
+3. Objects: Its a type of javascript data with properties and type.
 
-4. Method:
+4. Method: Its when a function belongs to an object.
 
-5. Classes:
+5. Classes: templates for creating objects. They contain the data and behavior that makes an object work.
